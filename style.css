@@ -9,3 +9,15 @@ margin-top: 50px;
     text-align: center;
     color: tomato;
 }
+.flote-left{
+    float: left;
+}
+.card img{
+    height: 250px;
+    width: 250px;
+    
+}
+.hey{
+    text-decoration: none;
+    color: #000;
+}
